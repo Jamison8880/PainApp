@@ -1,5 +1,7 @@
 import './App.css';
 import AdiaLogo from './AdiaLogo.png';
+import Nuralogo from './Nuralogo.png';
+
 import Hudson from './Hudson.svg'
 import Picture1 from './Picture1.png';
 import Ocean from './Ocean.jpg';
@@ -101,7 +103,7 @@ render() {
         }}>
    
      
-   <img src = {Hudson} width="30%"  />
+   <img src = {Nuralogo} width="30%"  />
 <br></br>
 <br></br>  
 <br></br>
@@ -154,7 +156,7 @@ render() {
 
 
 {/* <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelyZuJFakQZfTxyn_EZ4jDXTJiebOpn0c9oe4Xcdx0kJCUAQ/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> */}
-   <img src = {Hudson} width="15%"  />
+   <img src = {Nuralogo} width="15%"  />
 
  <br></br>
  <iframe src= "https://cornell.ca1.qualtrics.com/jfe/form/SV_9nSqh9eVd3nTWcu" width="900" height="620" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
